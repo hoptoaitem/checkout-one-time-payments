@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f34cc05-3d38-4144-af7f-8b6cc2515bbd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1horhltmDci64txTVAmB4k3oboR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f34cc05-3d38-4144-af7f-8b6cc2515bbd" name="Default Changelist" comment="" />
+      <created>1600688407475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600688407475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1603850116734">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603850116734" />
+    <state x="2865" y="-849" width="670" height="676" key="search.everywhere.popup" timestamp="1600688487176">
+      <screen x="1280" y="-1360" width="3840" height="2160" />
+    </state>
+    <state x="2865" y="-849" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/1280.-1360.3840.2160@1280.-1360.3840.2160" timestamp="1600688487176" />
+  </component>
+</project>
